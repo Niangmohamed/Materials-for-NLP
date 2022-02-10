@@ -1,2 +1,3 @@
-# Materials-for-NLP
-This repository contains materials for the concepts used in Natural Language Understanding.
+# Natural Language Understanding
+
+This repository contains materials to understand the various concepts used in Natural Language Understanding.
